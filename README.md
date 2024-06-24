@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey.
 
 ### I'm a Full-Stack Developer career-switching from a coach within the fitness industry. It might be to do with my gym's server continually crashing that inspired the change.
 
